@@ -7,6 +7,7 @@ title = "LLM Study"
 
 [output.html]
 additional-css = ["./mdbook-admonish.css"]
+mathjax-support = true
 
 [preprocessor]
 # add the emoji preprocessor
