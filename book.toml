@@ -13,6 +13,9 @@ mathjax-support = true
 # add the emoji preprocessor
 [preprocessor.emojicodes]
 
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
 
 [preprocessor.admonish]
 command = "mdbook-admonish"
