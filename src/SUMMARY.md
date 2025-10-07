@@ -6,3 +6,4 @@
 - [Chapter 3 Parallelization in LLM](./3.parallelizationInLLM.md)
   - [3.1 Parallelization Concepts](./3.1.md)
   - [3.2 Parallelization in Transformer-Based LLM](./3.2.md)
+- [Chapter 4 CUDA Optimization for LLM Inference](./4.cudaopt.md)
